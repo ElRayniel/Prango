@@ -1,6 +1,6 @@
-# BIENVENIDO A YaelChecker
+# BIENVENIDO A RaynielChecker
 
-Con YaelChecker podrás tener tu propio generador de tarjetas personalizado y online con **Github Pages.**
+Con RaynielChecker podrás tener tu propio generador de tarjetas personalizado y online con **Github Pages.**
 
 ## PREVIEW de como quedaría:
 ![enter image description here](capturas/final.png)
